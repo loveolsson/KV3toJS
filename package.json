@@ -20,9 +20,9 @@
   "author": "Love Olsson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coral/KV3toJSON/issues"
+    "url": "https://github.com/loveolsson/KV3toJS/issues"
   },
-  "homepage": "https://github.com/coral/KV3toJSON#readme",
+  "homepage": "https://github.com/loveolsson/KV3toJS/#readme",
   "dependencies": {
   }
 }
