@@ -1,0 +1,28 @@
+{
+  "name": "kv3tojs",
+  "version": "0.0.1",
+  "description": "Convert Valve KV3 files to JS-objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coral/KV3toJSON.git"
+  },
+  "keywords": [
+    "kv3",
+    "json",
+    "key",
+    "value",
+    "3"
+  ],
+  "author": "Love Olsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coral/KV3toJSON/issues"
+  },
+  "homepage": "https://github.com/coral/KV3toJSON#readme",
+  "dependencies": {
+  }
+}
